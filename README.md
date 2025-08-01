@@ -26,4 +26,8 @@ The complete, updated daily dataset can be found on [Kaggle](https://www.kaggle.
 - <strong>gsearch_jobs_2023_q2.csv</strong>: (Apr/May/Jun 2023)
 - <strong>gsearch_jobs_2023_q3.csv</strong>: (Jul/Aug/Sep 2023)
 
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
+
+Any concerns connect to us nihalshaikh.analyst@gmail.com
+
+
+--------Thank you......
